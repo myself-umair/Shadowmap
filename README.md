@@ -10,7 +10,7 @@ force-directed topology view, wrapped in a glowing green terminal UI.**
 [![Engine](https://img.shields.io/badge/Scan_Engine-Scapy-1E90FF?style=for-the-badge)](https://scapy.net/)
 [![OS](https://img.shields.io/badge/OS-Windows_%7C_Linux-brightgreen?style=for-the-badge)](#-installation)
 
-[![Stars](https://img.shields.io/github/stars/onlyforken637/Shadowmap?style=for-the-badge&logo=github&color=FFD700)](https://github.com/onlyforken637/Shadowmap/stargazers)
+[![Stars](https://img.shields.io/github/stars/myself-umair/Shadowmap?style=for-the-badge&logo=github&color=FFD700)](https://github.com/myself-umair/Shadowmap/stargazers)
 [![License](https://img.shields.io/badge/License-All_rights_reserved-lightgrey?style=for-the-badge)](#-license)
 [![Theme](https://img.shields.io/badge/Theme-Matrix_Green-00FF00?style=for-the-badge)](#)
 [![Ethics](https://img.shields.io/badge/Use-Authorized_networks_only-red?style=for-the-badge)](#-legal--ethical-use)
@@ -205,7 +205,7 @@ pip install scapy networkx pyvis PyQt5 PyQtWebEngine
 ### 🐧 Linux
 
 ```bash
-git clone https://github.com/onlyforken637/Shadowmap.git
+git clone https://github.com/myself-umair/Shadowmap.git
 cd Shadowmap
 
 # create an isolated environment
@@ -224,7 +224,7 @@ sudo .venv/bin/python Shadowmap.py
 ### 🪟 Windows
 
 ```powershell
-git clone https://github.com/onlyforken637/Shadowmap.git
+git clone https://github.com/myself-umair/Shadowmap.git
 cd Shadowmap
 
 python -m venv .venv
