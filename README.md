@@ -323,5 +323,5 @@ Issues and pull requests are welcome! Ideas that would fit SHADOWMAP nicely:
 
 ## 📄 License
 
-MIT 'LICENSE'
+MIT `LICENSE` 
 
