@@ -323,7 +323,5 @@ Issues and pull requests are welcome! Ideas that would fit SHADOWMAP nicely:
 
 ## 📄 License
 
-This project is currently **unlicensed — all rights reserved** by the author.
-If you plan to reuse or redistribute the code, open an issue first. (Adding an
-MIT / GPL `LICENSE` file is a good idea if you want others to contribute.)
+MIT 'LICENSE'
 
